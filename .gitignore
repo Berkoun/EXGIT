@@ -1,0 +1,8 @@
+#Ignore model files that are auto-generated
+
+ModelIndex.xml
+
+ModelIndex.txt
+
+
+
